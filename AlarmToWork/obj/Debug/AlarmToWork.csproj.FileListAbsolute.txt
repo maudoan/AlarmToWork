@@ -1,0 +1,11 @@
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\bin\Debug\AlarmToWork.exe.config
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\bin\Debug\AlarmToWork.exe
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\bin\Debug\AlarmToWork.pdb
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.csproj.AssemblyReference.cache
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.csproj.SuggestedBindingRedirects.cache
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.Form1.resources
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.Properties.Resources.resources
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.csproj.GenerateResource.cache
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.csproj.CoreCompileInputs.cache
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.exe
+D:\Work\MS\Alarm\AlarmToWork\AlarmToWork\obj\Debug\AlarmToWork.pdb
