@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlarmToWork.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -102,6 +103,7 @@ namespace AlarmToWork
         private void Form1_Load(object sender, EventArgs e)
         {
             // Xử lý sự kiện Load Form (nếu cần)
+            this.TopMost = true;
             int screenWidth = Screen.PrimaryScreen.Bounds.Width;
             int screenHeight = Screen.PrimaryScreen.Bounds.Height;
             int formWidth = this.Width;
